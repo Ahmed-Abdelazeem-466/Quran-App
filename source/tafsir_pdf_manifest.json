@@ -1,0 +1,18 @@
+[
+  {
+    "id": "muyassar",
+    "original_filename": "Noor-Book.comالتفسيرالميسر.pdf",
+    "asset": "assets/tafsir/tafsir_muyassar.pdf",
+    "pages": 609,
+    "sha256": "8a2ca30ddd74e8f764b0822e8a099024ed8eed8e1afce96a48848acd8070a055",
+    "content": "Original image-only PDF; no OCR, transcription, translation or alteration"
+  },
+  {
+    "id": "ibnKathir",
+    "original_filename": "Noor-Book.comتفسيرالقرآنالعظيمتفسيرابنكثير.pdf",
+    "asset": "assets/tafsir/tafsir_ibn_kathir.pdf",
+    "pages": 2061,
+    "sha256": "cfa3756896d1e2a3ccf3d16267a0c419774cd6df9c9060370daf11e501625348",
+    "content": "Original image-only PDF; no OCR, transcription, translation or alteration"
+  }
+]
