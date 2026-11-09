@@ -216,12 +216,3 @@ The bundled Noto Naskh Arabic font is distributed under its SIL Open Font Licens
 - [Flutter Android deployment](https://docs.flutter.dev/deployment/android)
 - [Android PdfRenderer](https://developer.android.com/reference/android/graphics/pdf/PdfRenderer)
 
-## License
-
-The application source code is released under the [MIT License](LICENSE).
-
-The Quran text keeps the Tanzil license (Creative Commons Attribution 3.0, verbatim copies only), and the Noto Naskh Arabic font keeps its SIL Open Font License. See the `source/` folder. These terms are separate from the MIT license of the code.
-
----
-
-*README drafted with AI assistance (Claude) and reviewed by the author.*
